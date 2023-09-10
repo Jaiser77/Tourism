@@ -1,0 +1,230 @@
+.custom-carousel {
+  height: 570px !important; 
+  margin: 0 auto; 
+}
+
+.custom-carousel-image {
+  height: 550px !important; 
+  object-fit: cover; 
+}
+.p {
+  text-indent: 50px;
+}
+.p1{
+  text-indent: 77px;
+}
+.btn1{
+  margin-top: 35px;
+}
+.btn2rm{
+  margin-top: 38.1px;
+}
+.btnot{
+  margin-top: 43.5px;
+}
+.btnot2{
+  margin-top: 42px;
+}
+.custom-navbar{
+  background-color: rgb(209, 200, 200) !important;
+  color:antiquewhite !important;
+}
+
+.anc{
+  color:blue !important;
+}
+#dropdown-basic{
+  background-color: transparent;
+  width: 540px !important;
+  box-shadow: none;
+  color: black;
+}
+.dropdown1{
+  border-radius: 5px 5px 0 0 !important;
+  border-color: rgb(214, 202, 202) !important;
+}
+.dropdown2{
+  border-radius: 0 0 0 0 !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  border-color:  rgb(214, 202, 202) !important;
+}
+
+.dropdown3{
+  border-radius:  0 0 5px 5px !important;
+  border-color:  rgb(214, 202, 202)!important;
+}
+
+.dropdownmenu{
+  width: 540px !important;
+}
+#dropdown-basic::after{
+  display: none;
+}
+.introbtvend{
+  margin-bottom: 70px;
+}
+.divchennai1{
+  border: 0.5px solid rgb(203, 185, 185); 
+        padding: 10px;
+}
+.divdist{
+  margin-left: 25px ;
+}
+.divdist1{
+  border: 0.5px solid rgb(203, 185, 185); 
+  border-top: none;
+  border-bottom: none;
+  width: 450px;
+  margin-left: -12px;
+  padding: 10px;
+}
+.disimg1{
+  margin-left: 25px;
+}
+.disimg2{
+  margin-left: -14px;
+}
+.disimg3{
+  margin-left: -17px;
+}
+.span-dist{
+  margin-left: -25px;
+}
+.season-heading{
+  font-size: 1.2rem;
+  margin-top: -30px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
+.season-text{
+  text-indent: 5rem ;
+  text-align: justify;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+.season-img{
+ width: 100%;
+ height: auto;
+}
+.fix{
+text-indent: 1.2rem;
+}  
+.tourism-heading{
+  margin-top: 80px;
+  text-align: center;
+}
+.tourism-sub-heading{
+  margin-top: 15px;
+ margin-bottom: 80px;
+ text-align: center;
+}
+.besttimetovisit-primary-heading{
+  margin-bottom: 25px;
+}
+.besttimetovisit-primary-sub-heading{
+ margin-top: 50px;
+}
+.besttimetovisit-text{
+ text-indent: 17rem;
+ text-align: justify;
+}
+.besttimetovisit-bottomtext{
+  margin-bottom: 75px;
+}
+.season-title{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.offcanvas-title{
+  text-align: center;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.modal-heading{
+  font-weight: bolder;
+}
+.model-margintop{
+  margin-top: -50px;
+}
+.modal-img{
+  margin-left: 65px;
+  margin-right: 65px;
+}
+.modal-img-text{
+  text-align: center;
+}
+.even-marginbttom{
+  margin-bottom: 50px;
+}
+.modal-heading{
+  margin-left: -40px;
+}
+.besttimetovisit2-text{
+  text-indent: 16.5rem;
+}
+.dist-content1{
+  margin-top: -10px;
+  text-align: justify;
+}
+.dist2{
+  margin-top: 80px;
+}
+.dist-content2{
+  margin-top: 30px;
+}
+.dist-contentA1{
+  margin-top: 25px;
+}
+.para{
+  text-indent: 55px;
+}
+.ooty-heading{
+  margin-left: 38px;
+}
+.offcanvas-title2{
+  margin-left: 90px;
+}
+.offcanvas-title{
+  margin-left: 90px;
+}
+.offcanvas-titlera{
+  margin-left: 40px;
+}
+.offcanvas-titleka{
+  margin-left: 50px;
+}
+.offcanvas-titlek{
+  margin-left: -25px;
+}
+.theni-hd{
+  margin-left: 40px;
+}
+.img-package{
+  height: 200px;
+  width: 305px;
+  border-radius: 20px;
+  text-align: center;
+  display: block;
+}
+.img-package-icons{
+  height: 20px;
+  width: 20px;
+}
+.col-package{
+  border: 1px solid rgb(186, 167, 167);
+  box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.2);
+  width: 330px !important ;
+  border-radius: 20px;
+}
+.btn-package{
+  background-color: green;
+  color: white;
+  border: none;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding: 3px 5px;
+  border-radius: 4px;
+}
