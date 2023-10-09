@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tourism/static/css/main.ab642dba.css",
-    "main.js": "/Tourism/static/js/main.6fbd5c77.js",
+    "main.js": "/Tourism/static/js/main.59a7fa71.js",
     "static/media/Food4.jpg": "/Tourism/static/media/Food4.72ae3c210c7ff881377f.jpg",
     "static/media/theni3.jpeg": "/Tourism/static/media/theni3.c206da982c4d72ac6501.jpeg",
     "static/media/kodaikanal1....jpeg": "/Tourism/static/media/kodaikanal1....fa11ce1057ad0ad764c5.jpeg",
@@ -90,10 +90,10 @@
     "static/media/kumbakonam1 (3).jpeg": "/Tourism/static/media/kumbakonam1 (3).ef573454d7feac6302b5.jpeg",
     "index.html": "/Tourism/index.html",
     "main.ab642dba.css.map": "/Tourism/static/css/main.ab642dba.css.map",
-    "main.6fbd5c77.js.map": "/Tourism/static/js/main.6fbd5c77.js.map"
+    "main.59a7fa71.js.map": "/Tourism/static/js/main.59a7fa71.js.map"
   },
   "entrypoints": [
     "static/css/main.ab642dba.css",
-    "static/js/main.6fbd5c77.js"
+    "static/js/main.59a7fa71.js"
   ]
 }
